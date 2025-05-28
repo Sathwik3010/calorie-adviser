@@ -1,2 +1,2 @@
-# calorie-adviser
-This is an AI app to generate the calories based on Image
+# calorie-advisor
+Analyse calories in your food using Mutlimodal Models
